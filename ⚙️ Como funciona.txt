@@ -1,0 +1,21 @@
+⚙️ Como funciona
+
+totalGeral = 0; → armazena a soma de todos os produtos cadastrados.
+
+while (continuar === "s") → repete o processo enquanto o usuário digitar "s".
+
+Dentro do laço:
+
+Pede nome do produto, preço unitário e quantidade.
+
+Calcula o subtotal (preco * qtd).
+
+Soma esse subtotal ao totalGeral.
+
+Exibe o item no cupom.
+
+item++ → incrementa o número do item a cada produto adicionado.
+
+O programa pergunta se o usuário deseja continuar (s/n).
+
+Quando o usuário digita "n", o laço termina e o programa mostra o total final da compra.
